@@ -1,0 +1,10 @@
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\bin\Debug\GeradorCPF.exe.config
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\bin\Debug\GeradorCPF.exe
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\bin\Debug\GeradorCPF.pdb
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.csproj.AssemblyReference.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.GeradorCPF.resources
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.Properties.Resources.resources
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.csproj.GenerateResource.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.csproj.CoreCompileInputs.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.exe
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\GeradorCPF\GeradorCPF\GeradorCPF\obj\Debug\GeradorCPF.pdb
